@@ -24,6 +24,7 @@
 * This hydroxide ions are released under certain conditions.
 * At high concentration level they are very corrosive and damaging to metals and also to plant and animal tissue.(Strong base)
 * Weak base, ionize slightly when dissolved in water.
+
 ##Reason
 ***
 * In water (H<sub>2</sub>O), when the compound is mixed:
