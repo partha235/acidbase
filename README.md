@@ -18,14 +18,14 @@
 * Acid that don't ionize completely are Weak acid (i.e. the less count of hydrogen ion in water when acid react with it.)
 * Few have no hydrogen as first, they are known as salts of acid and they release hydrogen under certain condition. they have one or more hydrogen (H<sub>2</sub>SO<sub>4</sub> - acid;NaHSO<sub>4</sub>).
 
-##Base
+## Base
 ***
 * Has one or more hydroxide ions(OH) in the formula.
 * This hydroxide ions are released under certain conditions.
 * At high concentration level they are very corrosive and damaging to metals and also to plant and animal tissue.(Strong base)
 * Weak base, ionize slightly when dissolved in water.
 
-##Reason
+## Reason
 ***
 * In water (H<sub>2</sub>O), when the compound is mixed:
     1. if hydroxide ions are consumed, then it create acidic condition by releasing hydrogen ions. 
