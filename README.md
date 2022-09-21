@@ -18,8 +18,6 @@
 * Acid that don't ionize completely are Weak acid (i.e. the less count of hydrogen ion in water when acid react with it.)
 * Few have no hydrogen as first, they are known as salts of acid and they release hydrogen under certain condition. they have one or more hydrogen (H<sub>2</sub>SO<sub>4</sub> - acid;NaHSO<sub>4</sub>).
 
-__NOTE:__ Refer to know more about [acid](https://www.britannica.com/science/acid) 
-
 ##Base
 ***
 * Has one or more hydroxide ions(OH) in the formula.
